@@ -1,39 +1,9 @@
 # feedback-popup
 Html,css
 
-# Corner
-C# Corner Search
-TECHNOLOGIES
-ANSWERS
-LEARN
-NEWS
-BLOGS
-VIDEOS
-INTERVIEW PREP
-BOOKS
-EVENTS
-CAREER
-MEMBERS
-JOBS
-Creating a Feedback Form Using HTML
-Dhanush M Dhanush M  Updated date Apr 09, 2020
-  28.4k 0 3
 
-facebook
-twitter
-linkedIn
-Reddit
-WhatsApp
-Download Free .NET & JAVA Files API
-Try Free File Format APIs for Word/Excel/PDF
-Introduction
- 
-During the creation of websites for online classes, shopping, or anything else, you need to attach a feedback form for the purpose of getting the feedback from the customer or user. Those feedbacks help the organisation to improve their services. The fields for the feedback forms vary for the organizations and their services, but there will be a common layout for all those forms, such as first name, last name, mail ID and feedback section. Creating this kind of forms using HTML is not a tedious process. In this article, we will discuss creating a feedback form using HTML for web development.
- 
 Creating a Feedback Form
  
-For creating a feedback form you can open a new HTML code editing page in your IDE. Here, I am using Visual Studio Code for this purpose. You can install the Visual Studio Code by clicking here. I embedded the codes in the single file, but you can link the different files for style sheet, Javascript and PHP work. You can use the source code given below for creating a page:
-<!DOCTYPE html>    
 <html>    
 <head>    
 <meta name="viewport" content="width=device-width, initial-scale=1">    
